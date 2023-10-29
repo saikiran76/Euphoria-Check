@@ -4,7 +4,7 @@
 
 Feel free to contribute! 🌈✨
 
-View Web App here : https://euphoria-check-perma-meter-express-1afumrp0a-aryainguz.vercel.app/
+View the Web App here: https://euphoria-check-perma-meter-express-1afumrp0a-aryainguz.vercel.app/
 
 # Euphoria Check - A Modern PERMA Meter
 
@@ -15,7 +15,7 @@ View Web App here : https://euphoria-check-perma-meter-express-1afumrp0a-aryaing
 
 ## Features
 
-Users recieves a personalized note on email that helps them set their targets and improve on specific score so they keep on evolving  
+Users receive a personalized note by email that helps them set their targets and improve on specific scores so they keep on evolving  
 
 Key Features:
 📊 Happiness Assessment: 
@@ -24,7 +24,7 @@ Key Features:
 
 ## Hacktoberfest 2023
 
-Euphoria-Check is a part of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/), an annual celebration of open source contributions. You can contribute to **Euphoria-Check** by participating in Hacktoberfest. Whether you're a seasoned developer or just starting your open-source journey, your contributions are always welcomed by Open Source Chandigarh!
+Euphoria-Check is a part of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/), an annual celebration of open-source contributions. You can contribute to **Euphoria-Check** by participating in Hacktoberfest. Whether you're a seasoned developer or just starting your open-source journey, your contributions are always welcomed by Open Source Chandigarh!
 
 ## Contributing
 
@@ -58,6 +58,6 @@ Happy Hacking!
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- Express JS
+- [Express JS](https://expressjs.com/)
 
 Maintained By - Aryan Inguz, Technical Head Open Source Chandigarh (https://github.com/Aryainguz)
